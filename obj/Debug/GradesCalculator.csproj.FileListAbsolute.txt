@@ -1,0 +1,10 @@
+C:\Users\rgerman\source\repos\GradesCalculator\GradesCalculator\bin\Debug\GradesCalculator.exe.config
+C:\Users\rgerman\source\repos\GradesCalculator\GradesCalculator\bin\Debug\GradesCalculator.exe
+C:\Users\rgerman\source\repos\GradesCalculator\GradesCalculator\bin\Debug\GradesCalculator.pdb
+C:\Users\rgerman\source\repos\GradesCalculator\GradesCalculator\obj\Debug\GradesCalculator.csprojResolveAssemblyReference.cache
+C:\Users\rgerman\source\repos\GradesCalculator\GradesCalculator\obj\Debug\GradesCalculator.Form1.resources
+C:\Users\rgerman\source\repos\GradesCalculator\GradesCalculator\obj\Debug\GradesCalculator.Properties.Resources.resources
+C:\Users\rgerman\source\repos\GradesCalculator\GradesCalculator\obj\Debug\GradesCalculator.csproj.GenerateResource.Cache
+C:\Users\rgerman\source\repos\GradesCalculator\GradesCalculator\obj\Debug\GradesCalculator.csproj.CoreCompileInputs.cache
+C:\Users\rgerman\source\repos\GradesCalculator\GradesCalculator\obj\Debug\GradesCalculator.exe
+C:\Users\rgerman\source\repos\GradesCalculator\GradesCalculator\obj\Debug\GradesCalculator.pdb

@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<AppSerializer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ListOfDataToSave>
+    <DataToSave>
+      <Subject>Reasoning theory</Subject>
+      <Points>3</Points>
+      <Grade>87</Grade>
+    </DataToSave>
+    <DataToSave>
+      <Subject>Computer science Introduction</Subject>
+      <Points>6</Points>
+      <Grade>90</Grade>
+    </DataToSave>
+    <DataToSave>
+      <Subject>Introduction to logic and set theory</Subject>
+      <Points>4</Points>
+      <Grade>78</Grade>
+    </DataToSave>
+    <DataToSave>
+      <Subject>Differential and Integral Calculus 1</Subject>
+      <Points>6</Points>
+      <Grade>76</Grade>
+    </DataToSave>
+    <DataToSave>
+      <Subject>Linear Algebra</Subject>
+      <Points>6</Points>
+      <Grade>87</Grade>
+    </DataToSave>
+    <DataToSave>
+      <Subject>Advanced programming in C language</Subject>
+      <Points>4</Points>
+      <Grade>75</Grade>
+    </DataToSave>
+    <DataToSave>
+      <Subject>Advanced programming in C language</Subject>
+      <Points>4</Points>
+      <Grade>65</Grade>
+    </DataToSave>
+    <DataToSave>
+      <Subject>Introduction to probability</Subject>
+      <Points>4</Points>
+      <Grade>60</Grade>
+    </DataToSave>
+    <DataToSave>
+      <Subject>Differential and Integral Calculus 2</Subject>
+      <Points>4</Points>
+      <Grade>62</Grade>
+    </DataToSave>
+    <DataToSave>
+      <Subject>data structures</Subject>
+      <Points>4</Points>
+      <Grade>68</Grade>
+    </DataToSave>
+    <DataToSave>
+      <Subject>Linear algebra 2</Subject>
+      <Points>4</Points>
+      <Grade>70</Grade>
+    </DataToSave>
+    <DataToSave>
+      <Subject>Computer structure</Subject>
+      <Points>4</Points>
+      <Grade>70</Grade>
+    </DataToSave>
+    <DataToSave>
+      <Subject>Object oriented programming and C++ language</Subject>
+      <Points>4</Points>
+      <Grade>75</Grade>
+    </DataToSave>
+    <DataToSave>
+      <Subject>Processing images and signals on a compute</Subject>
+      <Points>3</Points>
+      <Grade>76</Grade>
+    </DataToSave>
+    <DataToSave>
+      <Subject>Computer organization and Assembly language</Subject>
+      <Points>2</Points>
+      <Grade>74</Grade>
+    </DataToSave>
+    <DataToSave>
+      <Subject>Algorithms</Subject>
+      <Points>4</Points>
+      <Grade>85</Grade>
+    </DataToSave>
+    <DataToSave>
+      <Subject>Internet and Java language</Subject>
+      <Points>4</Points>
+      <Grade>81</Grade>
+    </DataToSave>
+    <DataToSave>
+      <Subject>Introduction to Computer Communications</Subject>
+      <Points>4</Points>
+      <Grade>83</Grade>
+    </DataToSave>
+    <DataToSave>
+      <Subject>Object-oriented programming in a dot-net environment and #C</Subject>
+      <Points>4</Points>
+      <Grade>85</Grade>
+    </DataToSave>
+    <DataToSave>
+      <Subject>VR</Subject>
+      <Points>3</Points>
+      <Grade>92</Grade>
+    </DataToSave>
+    <DataToSave>
+      <Subject>SQL</Subject>
+      <Points>3</Points>
+      <Grade>80</Grade>
+    </DataToSave>
+    <DataToSave>
+      <Subject>design patterns</Subject>
+      <Points>3</Points>
+      <Grade>87</Grade>
+    </DataToSave>
+    <DataToSave>
+      <Subject>Computer architecture</Subject>
+      <Points>4</Points>
+      <Grade>60</Grade>
+    </DataToSave>
+    <DataToSave>
+      <Subject>Computablity</Subject>
+      <Points>4</Points>
+      <Grade>62</Grade>
+    </DataToSave>
+    <DataToSave>
+      <Subject>DNA and genes</Subject>
+      <Points>3</Points>
+      <Grade>84</Grade>
+    </DataToSave>
+    <DataToSave>
+      <Subject>ReactJS and Node JS</Subject>
+      <Points>3</Points>
+      <Grade>95</Grade>
+    </DataToSave>
+    <DataToSave>
+      <Subject>פונקציות מרוכבות</Subject>
+      <Points>4</Points>
+      <Grade>67</Grade>
+    </DataToSave>
+    <DataToSave>
+      <Subject>טכנולוגיה אתיקה ומשפט</Subject>
+      <Points>3</Points>
+      <Grade>60</Grade>
+    </DataToSave>
+    <DataToSave>
+      <Subject>פרוייקט גמר</Subject>
+      <Points>6</Points>
+      <Grade>96</Grade>
+    </DataToSave>
+  </ListOfDataToSave>
+  <SumOfPoints>114</SumOfPoints>
+  <SumOfGrades>8809</SumOfGrades>
+  <Average>77.27</Average>
+</AppSerializer>
